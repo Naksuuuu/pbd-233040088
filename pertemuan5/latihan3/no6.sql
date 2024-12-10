@@ -1,0 +1,22 @@
+INSERT INTO mahasiswa
+VALUES 
+('123','jajang','2004-10-10','jl.setiabudi','080808080','2','1','lunas'),
+('123','jajang','2004-10-10','jl.setiabudi','080808080','2','1','lunas'),
+('123','jajang','2004-10-10','jl.setiabudi','080808080','2','1','lunas'),
+('123','jajang','2004-10-10','jl.setiabudi','080808080','2','1','lunas'),
+('123','jajang','2004-10-10','jl.setiabudi','080808080','2','1','lunas'),
+('123','jajang','2004-10-10','jl.setiabudi','080808080','2','1','lunas'),
+('123','jajang','2004-10-10','jl.setiabudi','080808080','2','1','lunas'),
+('123','jajang','2004-10-10','jl.setiabudi','080808080','2','1','lunas'),
+('123','jajang','2004-10-10','jl.setiabudi','080808080','2','1','lunas'),
+('123','jajang','2004-10-10','jl.setiabudi','080808080','2','1','lunas'),
+('123','jajang','2004-10-10','jl.setiabudi','080808080','2','1','lunas'),
+('123','jajang','2004-10-10','jl.setiabudi','080808080','2','1','lunas'),
+('123','jajang','2004-10-10','jl.setiabudi','080808080','2','1','lunas'),
+('123','jajang','2004-10-10','jl.setiabudi','080808080','2','1','lunas'),
+('123','jajang','2004-10-10','jl.setiabudi','080808080','2','1','lunas'),
+('123','jajang','2004-10-10','jl.setiabudi','080808080','2','1','lunas'),
+('123','jajang','2004-10-10','jl.setiabudi','080808080','2','1','lunas'),
+('123','jajang','2004-10-10','jl.setiabudi','080808080','2','1','lunas'),
+('123','jajang','2004-10-10','jl.setiabudi','080808080','2','1','lunas'),
+('123','jajang','2004-10-10','jl.setiabudi','080808080','2','1','lunas')
